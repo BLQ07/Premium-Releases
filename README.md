@@ -39,6 +39,8 @@
 
 ## Лицензия
 
-- [LICENSE](LICENSE) — Apache License 2.0.
+- Основная лицензия — Apache License 2.0 ([LICENSE](LICENSE)).
+- Прокси-модуль (списки прокси, monosans/proxy-list) — MIT License
+  ([LICENSE-PROXIES](LICENSE-PROXIES)).
 
 > Приложение работает через официальные мобильные и веб-API МТС и Kion. Используйте на свой риск.
